@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatchObjt</string>
+    <string name="Coordinate">座標:</string>
+    <string name="sofarTime">Time</string>
+</resources>
